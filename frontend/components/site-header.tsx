@@ -23,7 +23,11 @@ export function SiteHeader() {
             <a href="#samples">Samples</a>
           </Button>
           <Button variant="ghost" size="icon" asChild aria-label="Source code">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/MRaysa/AstroVision"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Github className="h-4 w-4" />
             </a>
           </Button>
