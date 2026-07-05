@@ -1,0 +1,15 @@
+# --- Web framework ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# --- Scientific / imaging stack ---
+numpy==2.2.1
+scipy==1.15.0
+astropy==7.0.0
+photutils==2.1.0
+opencv-python-headless==4.11.0.86
+matplotlib==3.10.0
+Pillow==11.1.0
